@@ -1,0 +1,81 @@
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+.env.local
+
+# =========================
+# Python
+# =========================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Node
+# =========================
+node_modules/
+
+# =========================
+# Logs
+# =========================
+Logs/
+*.log
+npm-debug.log*
+
+# =========================
+# Browser Sessions
+# =========================
+linkedin_session/
+chrome-automation-profile/
+
+# =========================
+# WhatsApp Watcher
+# =========================
+skills/whatsapp-watcher/sessions/
+skills/whatsapp-watcher/.env
+
+# =========================
+# Playwright
+# =========================
+playwright-report/
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Build output
+# =========================
+dist/
+build/
+
+# =========================
+# Screenshots
+# =========================
+*.png
+
+# =========================
+# Process files
+# =========================
+.pids/
+*.pid
+
+# =========================
+# Obsidian / Claude
+# =========================
+.obsidian/
+.claude/

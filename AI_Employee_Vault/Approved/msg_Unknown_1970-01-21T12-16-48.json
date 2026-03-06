@@ -1,0 +1,18 @@
+{
+  "id": "false_923192738128@c.us_3AAC3BB596C56614D644",
+  "timestamp": 1772208815,
+  "receivedAt": "2026-02-27T16:13:36.237Z",
+  "from": "923192738128@c.us",
+  "fromName": "Unknown",
+  "contactName": "Unknown",
+  "body": "",
+  "type": "ptt",
+  "hasMedia": true,
+  "isGroup": false,
+  "groupId": null,
+  "mentions": [],
+  "mediaInfo": {
+    "mimetype": "audio/ogg; codecs=opus",
+    "caption": null
+  }
+}
