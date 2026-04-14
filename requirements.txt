@@ -1,0 +1,46 @@
+# ============================================
+# Personal AI Employee - Dependencies
+# ============================================
+
+# Core
+python-dotenv>=1.0.0
+pyyaml>=6.0
+pydantic>=2.0.0
+
+# Web / API
+fastapi>=0.110.0
+uvicorn>=0.27.0
+httpx>=0.27.0
+starlette>=0.36.0
+websockets>=12.0
+
+# Browser Automation
+playwright>=1.40.0
+linkedin-api>=2.3.0
+
+# Google APIs
+google-api-python-client>=2.110.0
+google-auth>=2.25.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+
+# File Watching
+watchdog>=6.0.0
+watchfiles>=0.21.0
+
+# Scheduling
+schedule>=1.2.2
+
+# Resilience / Monitoring
+tenacity>=8.2.0
+psutil>=5.9.0
+
+# Data / Parsing
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# MCP Protocol
+mcp>=1.0.0
+
+# CLI
+click>=8.1.0
